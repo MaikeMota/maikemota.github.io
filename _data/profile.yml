@@ -1,20 +1,12 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: GitHub
+  href: https://github.com/MaikeMota
   icon: entypo/github.svg
 
-- caption: Stack Overflow
-  href: https://stackoverflow.com
-  icon: icons/stackoverflow.svg
-
 - caption: Facebook
-  href: https://www.facebook.com
+  href: https://www.facebook.com/MaikeMota
   icon: entypo/facebook.svg
 
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
-
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Londrina - Pr
+  href: https://www.google.com.br/maps/place/Londrina,+PR/@-23.3211063,-51.2358028,12z/data=!3m1!4b1!4m5!3m4!1s0x94eb435a57af586d:0x23ac11a5c614f971!8m2!3d-23.3044524!4d-51.1695824?hl=pt-BR
   icon: entypo/location-pin.svg
 
