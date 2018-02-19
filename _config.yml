@@ -98,7 +98,6 @@ defaults:
     scope:
       path: "list"
     values:
-      show_profile: false
       layout: defaults/list
 
 # The release of Jekyll Now that you're using
