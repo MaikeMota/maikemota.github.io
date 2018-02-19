@@ -76,24 +76,23 @@ defaults:
     scope:
       path: ""
     values:
-      show_profile: true
+      title: WebSite
+      author: Maike Mota
+      show_profile: false
   -
     scope:
       path: "_posts"
     values:
-      show_profile: false
       layout: defaults/post
   -
     scope:
       path: "_portfolio"
     values:
-      show_profile: false
       layout: defaults/portfolio
   -
     scope:
       path: "_projects"
     values:
-      show_profile: false
       layout: defaults/project
   -
     scope:

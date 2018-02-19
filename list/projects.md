@@ -1,7 +1,7 @@
 ---
-title: All Projects
+title: Todos os Projetos
 narrow: true
-permalink: list/projects.html
+permalink: projetos
 show_profile: true
 ---
 

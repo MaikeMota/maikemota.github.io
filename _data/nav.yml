@@ -1,15 +1,15 @@
 - title: Home
-  href: index.html
+  href: 
 
 - title: Sobre
-  href: about.html
+  href: sobre
 
 - title: Blog
-  href: list/posts.html
+  href: blog
 
 - title: Projetos
-  href: list/projects.html
+  href: projetos
 
 - title: Portfólio
-  href: list/portfolio.html
+  href: portfolio
 
